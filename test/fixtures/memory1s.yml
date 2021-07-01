@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  img: MyString
+  details: MyString
+  level: 9.99
+
+two:
+  img: MyString
+  details: MyString
+  level: 9.99
