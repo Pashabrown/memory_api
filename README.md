@@ -22,3 +22,17 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## build Schema 
+- rails g scaffold Memory img:string details:string level:decimal
+
+- rails db:migrate
+
+## Vetted on postman
+
+## Heroku deployed 
+- https://memory-api-pasha.herokuapp.com/memory1s
+
+## CORS
+- uncomment cors on Gemfile 
+- change example.com to "*" in cors.rb
